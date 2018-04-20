@@ -14,4 +14,6 @@
     * Toda a informação Teórica sobre Node.js está na Wiki deste Repositório [Clique Aqui](https://github.com/F4NT0/Javascript_Info/wiki)
     * Todos os Códigos de Exemplos estão na pasta Node que pode ser clonado ou baixado em .zip
     
+    ![alt text](https://jakeeveetug.neocities.org/Homepage/i%20like%20it.gif "turnon")
+    
     
