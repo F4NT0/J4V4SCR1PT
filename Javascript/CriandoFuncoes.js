@@ -86,3 +86,20 @@ let subDiv = div(3,6);
 
 alert(subTeste);
 alert(subDiv);
+
+/* Funções em Seta */
+
+/*
+ existe uma sintaxe simples para criar funções
+ que deixa mais limpo o código
+
+ como se faz:
+
+ let variavel = (arg1,arg2,...,agrn) => expressaodesejada
+
+ que faz o mesmo que :
+
+ let variavel = function(arg1,arg2,...,argn){
+  return expressao;
+}
+*/
