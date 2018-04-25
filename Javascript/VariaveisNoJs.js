@@ -20,13 +20,10 @@ alert(mensagem);
 //a variavel mensagem será enviada como uma mensagem de alerta
 
 
-console.log(numero);
-//a mensagem será enviada como uma saida de texto
-
 /*Strings em Javascript*/
 
 let str = "Ola" //uma variavel de String com aspas duplas
-let str2 = "Ola" //Uma variavel de String com aspas simples
+let str2 = 'Ola' //Uma variavel de String com aspas simples
 
 alert(`ola Senhor ${str}! `) // o ${str} serve para chamar a variavel
                              //dentro da saida.
