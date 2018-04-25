@@ -25,7 +25,7 @@ alert(mensagem);
 let str = "Ola" //uma variavel de String com aspas duplas
 let str2 = 'Ola' //Uma variavel de String com aspas simples
 
-alert(`ola Senhor ${str}! `) // o ${str} serve para chamar a variavel
+alert(`ola Senhor ${str}! `); // o ${str} serve para chamar a variavel
                              //dentro da saida.
 
 /*typeof: */
