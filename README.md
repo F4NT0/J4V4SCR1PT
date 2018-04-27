@@ -1,8 +1,5 @@
 # Bem vindo ao Repositório de Informaçoes sobre Javascript
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0dOVJIkNzOjA9HgJ5UZNHEWjkAG0ThrBJ7aYzzPf7c1S5Gsm1 "Javascript")
-![alt text](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/thumb/nodejslogo.png "Node.js")
-
 ## O que existe nesse Repositório:
 
 * Javascript:
