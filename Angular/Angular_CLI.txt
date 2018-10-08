@@ -1,0 +1,16 @@
+USANDO O ANGULAR CLI PARA PROJETOS
+
+
+-> Baixando o node no linux:
+	$ apt-get install nodejs
+	$ node -v
+
+-> Atualizando o npm para instalar o Angular:
+	$ npm install npm@latest -g
+	$ npm -v
+
+-> INSTALANDO O ANGULAR CLI NO LINUX/MAC:
+	$ npm install -g @angular/cli
+
+-> Criando um projeto novo no ANGULAR:
+	$ ng new nome_projeto
