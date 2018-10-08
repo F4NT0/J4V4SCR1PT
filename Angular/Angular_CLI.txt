@@ -14,3 +14,10 @@ USANDO O ANGULAR CLI PARA PROJETOS
 
 -> Criando um projeto novo no ANGULAR:
 	$ ng new nome_projeto
+
+-> Iniciando o projeto para olhar no localhost:
+	$ ng serve
+
+-> Abrindo o código do programa no visual studio code pelo terminal
+	$ code . (dentro do respositório do projeto)
+
