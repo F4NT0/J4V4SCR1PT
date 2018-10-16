@@ -1,5 +1,2 @@
-function nome(){
-    alert('Saida de texto');
-}
-
-nome();
+let idade = prompt('qual a sua idade?',100);
+alert('Você possui '+idade+' anos!');
